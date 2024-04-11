@@ -108,3 +108,6 @@ with app.app_context():
         reviews.remove(r)
 
     db.session.commit()
+
+
+print('wabebe')
